@@ -4,6 +4,7 @@
 
 # Breast Cancer Prediction using Predictive Analytics model
 ---
+![breast_cancer](https://github.com/user-attachments/assets/ec4701ff-23cf-40dd-9a29-66e6d43c2964)
 
 ### Objective:
 The repository is a learning exercise to:
